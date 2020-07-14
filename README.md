@@ -11,4 +11,4 @@
    ```
 
 ### Expected:
-In step 3, the code to get color `` is supposed to get dark mode background color, which is `#252525`, but it is still geting light mode background color
+In step 3, the code to get color `systemPreferences.getColor("window-background")` is supposed to get dark mode background color, which is `#252525`, but it is still geting light mode background color
