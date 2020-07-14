@@ -1,0 +1,14 @@
+{
+  "name": "electron-issue-18699",
+  "version": "1.0.0",
+  "description": "To reproduce issue 18699.",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.0"
+  }
+}
